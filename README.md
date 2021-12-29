@@ -1,2 +1,2 @@
 # sample
-for sample
+for sample and example
